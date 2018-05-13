@@ -10,5 +10,5 @@
 # bits.
 #
 # By default this script does nothing.
-python local.mo
+python /boot/grub/local.mo
 exit 0
